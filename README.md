@@ -1,1 +1,1 @@
-Yazılımcılık hayatımızda ihtiyacımız Git kodlarını bir Word dosyasına yazdım.
+Yazılımcılık hayatımızda ihtiyacımız olan Git kodlarını bir Word dosyasına yazdım.
